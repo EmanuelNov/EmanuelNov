@@ -6,7 +6,7 @@ and the Flutter framework for non-native apps.
 
 - 📫 You can reach me through email -> {emanuelnov19@gmail.com}
 ---
-### :hammer_and_wrench: Languages and Tools :
+#### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="AndroidStudio" alt="AndroidStudio" width="30" height="30"/>&nbsp;
