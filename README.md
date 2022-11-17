@@ -2,6 +2,7 @@
 I’m Emanuel Nov, a Computer Science student.
 I’m interested in Mobile App Development, currently learning how to make Android apps through Android Studio with the Kotlin language, 
 and the Flutter framework for non-native apps.
+- Took part in the KODE Project - Android App Development course (Held by RIT Kosovo) which included 150Hrs of Android development training, 50Hrs of Flutter and 100Hours of Business Technical English and Soft Skills.
 
 
 - 📫 You can reach me through email -> {emanuelnov19@gmail.com}
